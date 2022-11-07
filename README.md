@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Alexanddro Peña 👨‍💻 </h1>
 
-<!--
-**AexPl14/AexPl14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="www.linkedin.com/in/alexanddro-peña"><img src="https://img.shields.io/badge/Linkedin-Alexanddro%20Pe%C3%B1a-blue"></a>
+<a href="https://twitter.com/AlexJ1450"><img src="https://img.shields.io/badge/Twitter-alexj1450-blue"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About me
+-  **Working :**  Web Development :computer: | Design :art: 
+-  **Learning :** Full-Stack :zap: | Backend :fire:	
+-  **Hobbies :** Videogames :video_game: | Music :headphones:
+-  **Ask me about :** Anything! I'm happy to help :v:
+-  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+-  **Pronouns :** He/Him/His :innocent:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 📊 Profile stats
+
+![Alexanddro's github stats](https://github-readme-stats.vercel.app/api?username=AexPl14)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
